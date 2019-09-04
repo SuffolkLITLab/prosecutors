@@ -40,7 +40,7 @@ body{
 }
 </style>
 <div id="icon"></div>
-<h2 align=center style="margin:5px 0 5px;">Virtual Clinic Assistant<sup><font size=-1> Beta</font></sup></h2>
+<h2 align=center style="margin:5px 0 5px;">Virtual Prosecutor's Assistant<sup><font size=-1> Beta</font></sup></h2>
 <p>I'm an interactive FAQ maintained by the <a href="https://suffolklitlab.org/courses/fellows/" target="_blank">LIT Fellows</a> to help you access resources and perform simple tasks. I'm a form of just-in-time training, giving you what you need when you need it.<sup>†</sup></p>
 
 
